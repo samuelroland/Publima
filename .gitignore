@@ -21,3 +21,13 @@ Homestead.yaml
 Homestead.json
 /.vagrant
 .phpunit.result.cache
+
+# Laravel public folder
+public/
+
+# Useless files
+*.map
+
+# IDE
+.vscode
+.idea
