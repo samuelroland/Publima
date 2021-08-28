@@ -1,15 +1,21 @@
 # Publima
 ### A publication management tool designed for collectives.
 
-In brief, **Publima** is free software and web application to manage publications in a collective. The aim is to *collaborate efficiently*, be able to *plan* intelligently, have a *global overview*, increase *transparency* and *involve members*, at each step.  
-The platform should help **to reduce complexity** concerning big challenges. Just to name a few: publishing platforms constraints, translations, additional multimedia content, feedbacks and fixes management, validation processes, members' skills, ... with publications on diverse publishing websites: social networks, blogs, newsletters, podcasts, ...
+In brief, **Publima** is free software (used as a web application) to manage publications in a collective. The aim is to *collaborate efficiently*, be able to *plan* intelligently, have a *global overview*, increase *transparency*, help to *apply the internal process and rules** and *involve members*, at each step. 
 
-**Status**: This project is currently _an idea._ Some points/ideas will change over time and enhance depending on user feedback.
+Here by publication, we mean every public creations (texts or multimedia). No matter the type of collective use it (any group with a name, that communicates publicly and that is organised ). Obviously, it includes social networks, blogs, newsletters, podcasts, ...
+
+The platform should help **to reduce complexity** concerning challenges around publications. Publication is usually not only a simple text, some visuals, multimedia content or files are sent too.  publishing platforms constraints, translations, additional multimedia content, feedbacks and fixes management, validation processes, members' skills, ... with publications on diverse publishing websites: 
+
+**Status**: This project is currently _an idea._ Nothing is implemented yet. Some points/ideas/feature priority will change over time and enhance depending on user feedback.
+## Strategy
+The aim of the strategy is to maximize the chances to make a useful app, validate the idea before to start coding, implement the most needed features, ...
 
 #### Which parts are pain points in publication management ?
+**-> See complete
 - To Be Defined with user feedbacks
 
-#### Minimum functionality requirements
+#### MVP (Minimum Viable Product)
 - To be defined
 
 ### Time allocated
