@@ -1,6 +1,11 @@
 # Publima
 ### A publication management tool designed for collectives.
 
+## This project is dead...
+In October 2021, after about 2 months of slow research in my collective at a national level (14 users interviews,  some brainstormings, ...), I have to give up this project (that's sad), mostly due to lack of time and other projects running in parallel. If you find it interesting anyway, or you are building something similar, I would love to know your project. Ping me in the fediverse or by email.
+Don't look for code, there is none, the project was only at the starting phase (research), the development strategy at the bottom is obsolete. There is LDM for the database, but it's maybe too extensive for a first version.
+
+-----
 **DISCLAIMER**: The first versions of this app is built only for my collective. I don't want to maintain it for a large public and collectives because I have other projects. That's why, I don't accept external contributions for the moment. If you're interested in the project or to use it for your own collective, let me know: star the repos or contact me on [Mastodon](https://fosstodon.org/@samuelroland).
 
 ## Introduction
@@ -45,7 +50,7 @@ The aim of the strategy is to maximize the chances to make a useful app, validat
 - [ ] Setup contact mean for security and questions.
 
 #### Which parts are pain points in publication management ?
-**-> See complete
+-> See complete
 - To Be Defined with user feedbacks
 
 #### MVP (Minimum Viable Product)
